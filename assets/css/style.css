@@ -1,0 +1,105 @@
+
+.tombol{
+float:right;
+padding-right: ;
+}
+.kanan{
+  float:right;
+}
+
+.card-sub{
+font-weight: bold;
+}
+.card-sub-2{
+font-weight: normal;
+color:#FF0000;}
+
+.card-footer-2{
+
+}
+
+body{
+  background: #dfeBf1;
+}
+.navbar-brand{
+  font-weight: bold;
+   font-size: 2rem; 
+}
+.nav-link{
+  margin-right: 1.5rem;
+  
+}
+.bold{
+    font-weight: bold;
+    font-size: 2rem;   
+    line-height: 30px;
+    height: max-content;
+    margin-top: 10px;
+}
+.bg-indigo {
+  background-color:#4B0082 !important;
+}
+
+footer {
+  background: #4B0082;
+  color: #aaa;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+footer a {
+  color: #aaa;
+}
+
+.bg-yellow{
+background-color: #FBB917;
+margin-bottom: 40px;
+}
+
+
+footer a:hover {
+  color: #fff;
+}
+
+.fontawesome{
+	color:#FF5733;
+}
+
+footer h5 {
+
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+  color:#fff;
+  font-weight: bold;
+
+}
+
+
+footer .four-column {
+ overflow: hidden;
+ width:100%;
+}
+
+footer .four-column li{
+ width: 100%;
+  float: left;
+  padding: 5px 0;
+}
+.carousel-sederhana{
+  background:#fff;
+  width:100%;
+  height:400px;
+  box-shadow: 3px;
+
+}
+
+footer .four-column li:hover {
+    color: rgba(250, 207, 47, 0.5)!important;
+    transition: .3s;
+
+}
